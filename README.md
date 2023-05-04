@@ -23,8 +23,8 @@
 <div align="center">
   
 ![jung-so-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-so-e&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-so-e&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-so-e&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-so-e&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
 <div align="right">
