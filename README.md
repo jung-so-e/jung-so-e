@@ -1,4 +1,6 @@
 # Tech Stack :
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JUNG-SO-E&fontSize=90)
 <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
