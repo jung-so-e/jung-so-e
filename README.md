@@ -28,9 +28,10 @@
 
 # 🤟 About Me 🤟
 
-<a href="https://img.shields.io/badge/https%3A%2F%2Fwww.notion.so%2FJung-So-E-da432f140fc24480b4683eba2641ebdc%3Fpvs%3D4"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=ffffff"/></a>
+<a href="https://img.shields.io/badge/https%3A%2F%2Fwww.notion.so%2FJung-So-E-da432f140fc24480b4683eba2641ebdc%3Fpvs%3D4">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff"/></a>
+
 <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.notion.so%2FJung-So-E-da432f140fc24480b4683eba2641ebdc%3Fpvs%3D4/Notion-000000?style=plastic&logo=notion&logoColor=ffffff"/>
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.notion.so%2FJung-So-E-da432f140fc24480b4683eba2641ebdc%3Fpvs%3D4)
 
 </div>
 # GitHub Stats
