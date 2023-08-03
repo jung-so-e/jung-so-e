@@ -4,7 +4,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=WELCOME&fontSize=90)
 
-<br>
 
 # 🛠️ Tech Stack 🛠️
 
